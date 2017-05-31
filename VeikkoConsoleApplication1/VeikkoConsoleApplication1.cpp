@@ -9,7 +9,7 @@ int main()
 	int i;
 	for (i = 0; i < 10; i++)
 	{
-		printf("Kukkuu \n");
+		printf("Käy ja kukkuu \n");
 		printf("taas!\n\n");
 		
 	}
